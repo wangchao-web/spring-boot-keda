@@ -1,0 +1,18 @@
+
+#server:
+#  port: 8081
+#
+#person:
+#  name: 小王
+#  age: 18
+#  boo: false
+#  date: 2020/5/9
+#  map: {张三: 18,李四: 19}
+#  list:
+#    - names: 开天
+#      age: 55
+#    - names: 指针
+#      age: 20
+#  user:
+#    names: 小狗
+#    age: 66
